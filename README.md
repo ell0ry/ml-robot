@@ -1,4 +1,4 @@
-# Imitation Learning algorithms and Co-training for Mobile ALOHA
+# Imitation Learning Algorithms for Training Visuomotor Policies
 
 
 #### Project Website: https://www.thomas-herring.com/transformer-rl
